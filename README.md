@@ -998,6 +998,8 @@ O    # open a line above the current cursor position
     :q	    # Quit, but it fails if anything has changed
     :q!	    # Quit and throw away for any changes
 ###  Linux Boot Process
+    ```mkdir
+    test
     ```
 
 **[⬆ Back to Top](#table-of-contents)**
