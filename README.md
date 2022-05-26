@@ -16,6 +16,7 @@
 | 8   | [**Search Files**](#search-files)                                       |
 | 9   | [**SSH**](#ssh)                                                         |
 | 10  | [**Vi/Vim-commands**](#vi/vim-commands)                                 |
+| 10  | [**Linux Boot Process**](#Linux Boot Process)                                 |
 
 ### User Information
 
@@ -996,6 +997,7 @@ O    # open a line above the current cursor position
     :wq!	# Force write (save) and quit
     :q	    # Quit, but it fails if anything has changed
     :q!	    # Quit and throw away for any changes
+###  Linux Boot Process
     ```
 
 **[⬆ Back to Top](#table-of-contents)**
