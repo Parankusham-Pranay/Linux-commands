@@ -16,7 +16,7 @@
 | 8   | [**Search Files**](#search-files)                                       |
 | 9   | [**SSH**](#ssh)                                                         |
 | 10  | [**Vi/Vim-commands**](#vi/vim-commands)                                 |
-| 11  | [**Linux Boot Process**](#Linux Boot Process)                                 |
+| 11  | [**Linux Boot Process**](#Linux Boot Process)                           |
 
 ### User Information
 
